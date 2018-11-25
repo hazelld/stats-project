@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Kawhi Leonard,30:56,5,12,.417,2,5,.400,0,0,nan,5,1,6,1,1,0,0,2,12,-9,0
 Tim Duncan,26:49,4,10,.400,0,0,nan,0,0,nan,2,5,7,3,1,0,2,2,8,-5,0
 Tony Parker,25:18,7,12,.583,0,1,.000,4,4,1.000,0,2,2,3,3,0,2,0,18,-2,0

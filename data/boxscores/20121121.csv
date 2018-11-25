@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Brandon Jennings,49:15,9,25,.360,1,8,.125,0,0,nan,1,6,7,6,5,0,0,3,19,-3,0
 Monta Ellis,39:26,4,16,.250,1,5,.200,0,0,nan,0,1,1,4,1,1,5,2,9,-10,0
 Tobias Harris,24:25,4,8,.500,1,4,.250,2,2,1.000,0,6,6,1,1,0,0,1,11,+8,0

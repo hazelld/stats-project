@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Donovan Mitchell,36:23,11,16,.688,3,6,.500,1,2,.500,1,1,2,1,1,0,4,4,26,+2,0
 Joe Ingles,33:56,3,7,.429,3,7,.429,0,0,nan,0,6,6,9,0,0,1,1,9,-2,0
 Ekpe Udoh,32:43,4,6,.667,0,0,nan,1,2,.500,1,6,7,3,3,6,0,3,9,+1,0

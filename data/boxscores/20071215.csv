@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Samuel Dalembert,42:32,6,9,.667,0,0,nan,4,6,.667,7,12,19,0,0,3,4,4,16,+9,0
 Reggie Evans,33:28,1,8,.125,0,0,nan,2,2,1.000,5,9,14,1,1,0,3,4,4,+2,0
 Andre Iguodala,33:27,6,12,.500,2,5,.400,6,9,.667,0,2,2,2,4,0,4,4,20,-8,0

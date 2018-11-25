@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Kawhi Leonard,45:59,15,30,.500,3,8,.375,8,8,1.000,0,6,6,5,1,1,6,3,41,+3,0
 LaMarcus Aldridge,41:55,7,14,.500,0,0,nan,2,4,.500,4,8,12,6,0,2,1,2,16,-2,0
 David Lee,36:19,7,11,.636,0,0,nan,0,0,nan,3,8,11,3,0,1,1,3,14,-8,0

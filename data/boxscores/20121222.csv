@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Al Jefferson,31:46,2,8,.250,0,0,nan,2,2,1.000,1,10,11,2,0,2,1,2,6,-12,0
 Paul Millsap,29:04,3,9,.333,0,0,nan,5,6,.833,2,3,5,1,1,0,3,3,11,-27,0
 Marvin Williams,27:19,7,12,.583,2,5,.400,0,0,nan,3,1,4,1,0,0,1,1,16,-10,0

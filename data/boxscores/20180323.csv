@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Marquese Chriss,35:19,7,11,.636,1,3,.333,4,6,.667,2,8,10,3,1,2,1,1,19,-17,0
 Troy Daniels,33:28,7,16,.438,6,12,.500,0,0,nan,0,6,6,1,0,0,1,1,20,-16,0
 Dragan Bender,28:16,1,4,.250,0,3,.000,0,0,nan,0,3,3,1,2,0,3,1,2,-19,0

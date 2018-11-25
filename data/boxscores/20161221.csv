@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Giannis Antetokounmpo,31:30,7,13,.538,1,4,.250,13,14,.929,1,4,5,5,2,1,1,1,28,-12,0
 Jabari Parker,29:06,11,20,.550,4,5,.800,1,1,1.000,0,1,1,2,0,1,1,1,27,-17,0
 Matthew Dellavedova,24:57,1,4,.250,0,3,.000,0,0,nan,0,2,2,3,2,0,0,2,2,-12,0

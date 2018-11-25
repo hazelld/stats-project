@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Hassan Whiteside,36:19,4,10,.400,0,0,nan,5,6,.833,2,9,11,1,1,2,2,3,13,-3,0
 Dion Waiters,35:19,12,24,.500,5,9,.556,0,0,nan,0,2,2,5,0,1,0,2,29,+4,0
 Goran Dragic,33:59,8,17,.471,2,5,.400,3,3,1.000,0,1,1,6,2,0,4,3,21,-2,0

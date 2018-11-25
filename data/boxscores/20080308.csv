@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Troy Murphy,42:50,6,14,.429,2,4,.500,3,4,.750,1,6,7,2,1,0,1,4,17,-11,0
 Mike Dunleavy,40:48,5,12,.417,1,2,.500,0,0,nan,0,3,3,3,0,1,4,2,11,-15,0
 Jeff Foster,32:46,3,4,.750,0,0,nan,0,0,nan,3,4,7,2,0,1,2,4,6,-15,0

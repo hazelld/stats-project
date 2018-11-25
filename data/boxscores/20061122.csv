@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LeBron James,39:55,11,24,.458,2,7,.286,6,9,.667,0,10,10,8,4,0,2,1,30,-7,0
 Zydrunas Ilgauskas,33:35,6,13,.462,0,0,nan,0,0,nan,5,2,7,2,0,0,1,5,12,+3,0
 Eric Snow,21:06,1,5,.200,0,0,nan,1,2,.500,0,2,2,3,1,0,0,2,3,-14,0

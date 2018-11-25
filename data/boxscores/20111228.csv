@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Chris Bosh,39:19,8,13,.615,0,0,nan,9,14,.643,2,4,6,2,0,2,1,1,25,+2,0
 LeBron James,38:49,13,23,.565,0,0,nan,9,9,1.000,0,6,6,7,3,2,2,0,35,+5,0
 Dwyane Wade,31:59,5,13,.385,0,0,nan,0,0,nan,0,1,1,4,1,2,3,4,10,-3,0

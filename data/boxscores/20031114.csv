@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Darius Miles,35:00,4,12,.333,0,0,nan,4,7,.571,5,3,8,2,0,2,2,4,12,+3,0
 LeBron James,35:00,3,12,.250,2,4,.500,2,4,.500,1,4,5,3,0,0,4,3,10,-1,0
 Zydrunas Ilgauskas,34:00,7,9,.778,0,0,nan,8,10,.800,4,3,7,0,1,1,1,4,22,-7,0

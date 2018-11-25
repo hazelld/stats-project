@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LeBron James,38:35,9,25,.360,3,9,.333,8,10,.800,4,7,11,4,2,0,4,3,29,-12,0
 Zydrunas Ilgauskas,28:35,7,12,.583,0,0,nan,6,7,.857,3,6,9,2,0,2,4,3,20,-7,0
 Anderson Varejao,27:41,1,10,.100,0,0,nan,0,0,nan,4,7,11,0,2,0,0,0,2,-5,0

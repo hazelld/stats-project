@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Richard Hamilton,44:00,10,16,.625,0,0,nan,8,10,.800,1,1,2,4,2,0,2,6,28,-8,0
 Rasheed Wallace,41:00,4,15,.267,1,4,.250,2,2,1.000,2,7,9,2,2,0,2,2,11,-8,0
 Chauncey Billups,37:00,2,6,.333,1,1,1.000,2,2,1.000,2,3,5,6,3,0,3,4,7,-13,0

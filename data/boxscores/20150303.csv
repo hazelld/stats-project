@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Evan Turner,27:38,3,8,.375,0,1,.000,0,0,nan,0,2,2,7,2,0,2,3,6,-28,0
 Brandon Bass,27:23,7,15,.467,1,1,1.000,0,0,nan,5,0,5,1,0,0,3,0,15,-28,0
 Avery Bradley,24:25,3,9,.333,1,4,.250,0,0,nan,0,1,1,1,0,0,1,2,7,-22,0

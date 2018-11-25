@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Hassan Whiteside,36:02,4,7,.571,0,0,nan,3,4,.750,1,8,9,2,0,6,2,2,11,+6,0
 Goran Dragic,33:36,3,9,.333,1,3,.333,4,4,1.000,0,3,3,6,1,0,1,3,11,+9,0
 Chris Bosh,33:10,7,15,.467,2,4,.500,0,0,nan,0,5,5,3,1,0,0,0,16,+3,0

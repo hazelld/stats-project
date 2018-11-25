@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Gerald Wallace,30:51,5,11,.455,1,4,.250,5,10,.500,1,5,6,0,3,0,4,2,16,-9,0
 Emeka Okafor,29:34,4,12,.333,0,0,nan,0,0,nan,0,7,7,0,1,2,0,3,8,-5,0
 Raymond Felton,27:33,5,9,.556,0,0,nan,0,0,nan,0,3,3,4,0,0,3,3,10,-5,0

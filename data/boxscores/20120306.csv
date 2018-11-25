@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 MarShon Brooks,28:20,5,11,.455,2,4,.500,0,0,nan,1,1,2,2,1,0,2,1,12,-26,0
 Deron Williams,26:04,7,13,.538,2,5,.400,0,0,nan,0,0,0,4,1,0,3,1,16,-15,0
 DeShawn Stevenson,25:55,2,8,.250,1,6,.167,2,3,.667,0,1,1,2,2,0,1,0,7,-13,0

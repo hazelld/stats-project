@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Caron Butler,31:16,2,9,.222,0,1,.000,6,7,.857,0,3,3,2,1,0,4,1,10,-17,0
 Javaris Crittenton,29:34,4,10,.400,1,1,1.000,2,3,.667,3,1,4,2,1,0,1,4,11,-14,0
 Antawn Jamison,27:38,2,4,.500,0,0,nan,3,6,.500,1,5,6,1,1,0,3,2,7,-21,0

@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Michael Kidd-Gilchrist,41:15,4,13,.308,0,0,nan,3,3,1.000,2,8,10,2,1,1,0,5,11,-1,0
 Nicolas Batum,33:07,5,12,.417,1,5,.200,4,5,.800,1,8,9,7,2,1,1,1,15,-2,0
 Kemba Walker,31:52,8,20,.400,4,8,.500,1,1,1.000,0,2,2,4,1,0,0,1,21,-1,0

@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Myles Turner,35:35,7,12,.583,1,1,1.000,3,4,.750,1,4,5,0,0,0,3,2,18,-7,0
 Thaddeus Young,34:55,4,6,.667,0,0,nan,0,0,nan,2,4,6,1,3,1,1,5,8,-8,0
 Darren Collison,33:29,7,11,.636,2,4,.500,0,0,nan,0,5,5,6,1,0,1,0,16,-5,0

@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Keith Bogans,35:00,3,12,.250,2,3,.667,5,8,.625,0,2,2,1,1,0,0,2,13,-5,0
 Gerald Wallace,34:00,5,10,.500,0,0,nan,5,8,.625,5,2,7,2,1,1,4,3,15,-1,0
 Brevin Knight,31:00,4,6,.667,0,0,nan,0,1,.000,0,2,2,8,2,0,3,3,8,-9,0

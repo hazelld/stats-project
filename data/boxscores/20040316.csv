@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Kirk Hinrich,38:00,6,15,.400,2,4,.500,0,0,nan,1,2,3,9,3,0,2,0,14,-19,0
 Jamal Crawford,30:00,6,14,.429,1,5,.200,4,5,.800,0,3,3,2,2,0,1,2,17,-5,0
 Linton Johnson,29:00,3,10,.300,0,2,.000,0,0,nan,1,4,5,0,2,4,2,3,6,-20,0

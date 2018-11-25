@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Harrison Barnes,36:12,10,19,.526,5,10,.500,5,5,1.000,0,3,3,5,0,0,1,0,30,0,0
 Dennis Smith,32:41,6,17,.353,2,6,.333,0,0,nan,1,3,4,6,0,0,7,3,14,-1,0
 Dorian Finney-Smith,29:55,2,7,.286,1,5,.200,0,0,nan,1,3,4,0,1,1,0,3,5,-7,0

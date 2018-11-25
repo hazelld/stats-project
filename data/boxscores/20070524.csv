@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LeBron James,44:41,7,19,.368,0,1,.000,5,7,.714,0,6,6,7,3,0,6,1,19,-6,0
 Larry Hughes,37:36,2,9,.222,0,0,nan,0,0,nan,1,2,3,3,2,0,2,1,4,-8,0
 Sasha Pavlovic,30:35,7,10,.700,0,3,.000,0,0,nan,0,0,0,0,3,0,1,1,14,-4,0

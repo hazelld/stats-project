@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LaMarcus Aldridge,36:52,9,20,.450,0,0,nan,9,10,.900,1,5,6,3,0,1,2,1,27,+11,0
 Patty Mills,35:23,3,9,.333,2,6,.333,3,3,1.000,0,2,2,5,1,0,1,1,11,+8,0
 Dejounte Murray,33:45,5,12,.417,0,0,nan,3,4,.750,3,6,9,5,4,3,0,2,13,+17,0

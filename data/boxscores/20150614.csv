@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LeBron James,44:46,15,34,.441,3,8,.375,7,9,.778,1,13,14,11,1,0,2,5,40,-11,0
 Matthew Dellavedova,41:41,2,9,.222,1,5,.200,0,0,nan,0,0,0,2,3,0,2,4,5,-19,0
 Tristan Thompson,39:49,6,11,.545,0,0,nan,7,10,.700,5,5,10,0,2,2,1,4,19,-22,0

@@ -1,4 +1,5 @@
 import math
+from collections import OrderedDict
 
 """
 Note all naming matches the formuli on this page:
@@ -77,14 +78,16 @@ def Team_Scoring_Poss(data):
         - data["Team_FTM"] - Team free throw made
         - data["Team_FTA"] - Team free throw attempted
     """
-    #return (data["Team_FGA"] + (1 - (math.pow(1 - (data["Team_FTM"] / data["Team_FTA"]), 2))) *
-    #        data["Team_FTA"] * 0.4)
-    return 0
+    return (data["Team_FGA"] + (1 - (math.pow(1 - (data["Team_FTM"] / data["Team_FTA"]), 2))) *
+            data["Team_FTA"] * 0.4)
 
 def Team_Poss(data):
     #return (Team_Scoring_Poss(data) + TeamFGxPoss(data) + TeamFTxPoss(data) + data["Team_TOV"])
     # Formula from https://squared2020.com/2017/11/05/defensive-ratings-estimation-vs-counting/:
     return data["Team_FGA"] + 0.44 * data["Team_FTA"] - data["Team_ORB"] + data["Team_TOV"]
+
+def Opponent_Poss(data):
+    return data["Opponent_FGA"] + 0.44 * data["Opponent_FTA"] - data["Opponent_ORB"] + data["Opponent_TOV"]
 
 def Team_ORB_Weight(data):
     """
@@ -212,6 +215,9 @@ def MarginalPointsPerWin(data):
 def OffensiveWinShares(data):
     return MarginalOffensePlayer(data) / MarginalPointsPerWin(data)
 
+def ORtg(data):
+    return 100 * (PointsProduced(data) / TotalPossessions(data))
+
 """
 DEFENSIVE CALCULATIONS
 """
@@ -263,11 +269,9 @@ def Marginal_Defense(data):
 def Marginal_PPW(data):
     return (0.32 * data["LPPG"] * ((data["Team_Pace"] / data["League_Pace"])))
 
-def Defensive_Win_Shares(data):
+def DefensiveWinShares(data):
     return Marginal_Defense(data) / Marginal_PPW(data)
 
-import csv
-from collections import OrderedDict
 
 def convert_to_int(data):
     buff_dict = {}
@@ -276,13 +280,3 @@ def convert_to_int(data):
             buff_dict[key] = int(data[key])
             print(str(key) + " = " + str(buff_dict[key]))
     return buff_dict
-
-with open('stats.csv', 'r') as csvfile:
-    creader = csv.DictReader(csvfile, delimiter=',')
-    for row in creader:
-        data = convert_to_int(dict(row))
-        print(Team_Poss(data))
-        print(D_Pts_per_ScPoss(data))
-        print(Stops_Team(data))
-        print(Stop_Percent(data))
-        print(DRtg(data))

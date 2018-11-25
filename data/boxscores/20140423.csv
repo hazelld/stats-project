@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Kemba Walker,44:38,5,18,.278,4,9,.444,2,2,1.000,1,2,3,8,2,0,2,1,16,+2,0
 Al Jefferson,40:15,9,23,.391,0,0,nan,0,0,nan,5,8,13,1,0,0,1,3,18,+2,0
 Josh McRoberts,37:24,3,7,.429,2,3,.667,0,0,nan,0,1,1,4,0,0,1,5,8,+14,0

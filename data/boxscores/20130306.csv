@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Jameer Nelson,43:07,6,18,.333,3,11,.273,1,1,1.000,1,1,2,14,3,0,6,2,16,+9,0
 Nikola Vucevic,42:08,11,16,.688,0,0,nan,3,3,1.000,9,12,21,4,1,0,2,6,25,+9,0
 Maurice Harkless,38:52,5,9,.556,2,4,.500,0,0,nan,1,2,3,0,3,2,2,6,12,+8,0

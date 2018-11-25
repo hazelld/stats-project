@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Carmelo Anthony,34:20,9,17,.529,2,4,.500,5,7,.714,0,2,2,6,0,0,2,5,25,+9,0
 Iman Shumpert,29:17,4,7,.571,0,1,.000,4,5,.800,0,3,3,2,0,0,1,1,12,-2,0
 Shane Larkin,28:13,4,6,.667,1,1,1.000,0,0,nan,1,1,2,5,5,0,3,0,9,-5,0

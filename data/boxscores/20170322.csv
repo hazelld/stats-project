@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LeBron James,34:10,8,12,.667,0,2,.000,2,4,.500,2,4,6,5,0,0,4,1,18,-30,0
 Kyrie Irving,27:26,11,22,.500,4,5,.800,7,7,1.000,1,1,2,3,0,0,0,2,33,-7,0
 Tristan Thompson,27:26,3,4,.750,0,0,nan,0,0,nan,2,2,4,2,0,1,0,0,6,-7,0

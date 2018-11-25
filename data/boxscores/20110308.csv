@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LaMarcus Aldridge,41:23,11,20,.550,0,0,nan,4,4,1.000,3,1,4,1,0,1,0,1,26,+16,0
 Andre Miller,32:20,6,8,.750,0,0,nan,2,2,1.000,0,3,3,5,1,0,1,2,14,+6,0
 Wesley Matthews,30:12,3,7,.429,2,3,.667,2,2,1.000,0,3,3,5,0,0,2,4,10,+2,0

@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LeBron James,26:27,4,13,.308,0,3,.000,4,5,.800,0,4,4,5,0,0,3,2,12,-29,0
 Matthew Dellavedova,25:35,4,8,.500,2,4,.500,0,0,nan,0,1,1,6,0,0,1,2,10,-16,0
 J.R. Smith,20:53,1,6,.167,1,5,.200,0,0,nan,0,0,0,1,1,0,0,2,3,-25,0

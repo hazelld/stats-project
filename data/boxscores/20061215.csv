@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Damien Wilkins,30:10,3,9,.333,2,4,.500,0,1,.000,1,0,1,2,3,0,1,4,8,-15,0
 Nick Collison,27:16,4,9,.444,0,0,nan,0,0,nan,4,8,12,1,0,0,4,1,8,-1,0
 Luke Ridnour,26:00,1,7,.143,0,1,.000,0,1,.000,0,1,1,1,1,0,0,0,2,-21,0

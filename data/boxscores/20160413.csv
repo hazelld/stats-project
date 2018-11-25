@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Anthony Tolliver,38:37,5,10,.500,5,9,.556,0,0,nan,1,7,8,1,0,0,2,1,15,+4,0
 Stanley Johnson,31:32,4,14,.286,1,3,.333,3,4,.750,2,6,8,2,3,1,1,5,12,-22,0
 Aron Baynes,27:48,5,9,.556,0,0,nan,4,4,1.000,3,2,5,1,0,0,3,3,14,-1,0

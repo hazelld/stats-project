@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Ben Wallace,43:12,0,2,.000,0,0,nan,1,2,.500,6,4,10,1,1,3,2,3,1,+5,0
 Tayshaun Prince,42:15,6,15,.400,1,2,.500,3,4,.750,0,5,5,1,1,0,4,3,16,-4,0
 Chauncey Billups,41:53,3,10,.300,2,5,.400,3,4,.750,0,3,3,7,3,0,1,2,11,-3,0

@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Tristan Thompson,27:47,4,9,.444,0,0,nan,2,4,.500,5,1,6,3,0,0,2,1,10,-17,0
 Iman Shumpert,27:07,3,7,.429,1,2,.500,2,2,1.000,0,0,0,2,1,0,1,0,9,-28,0
 James Jones,26:39,1,3,.333,0,2,.000,0,0,nan,0,3,3,3,1,0,1,4,2,-6,0

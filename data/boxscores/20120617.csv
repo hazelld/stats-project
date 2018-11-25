@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Kevin Durant,39:11,11,19,.579,1,4,.250,2,4,.500,2,4,6,0,1,2,5,5,25,-3,0
 Russell Westbrook,38:47,8,18,.444,1,4,.250,2,2,1.000,0,5,5,4,0,2,2,2,19,+3,0
 Kendrick Perkins,33:57,3,5,.600,0,0,nan,4,6,.667,6,6,12,0,0,1,0,3,10,+3,0

@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Ty Lawson,43:33,7,15,.467,1,4,.250,1,2,.500,2,5,7,6,2,0,1,1,16,-7,0
 Kenyon Martin,35:32,2,5,.400,0,0,nan,2,2,1.000,2,6,8,1,1,0,2,3,6,-6,0
 Wilson Chandler,32:54,5,15,.333,2,4,.500,0,0,nan,0,3,3,1,1,1,1,4,12,-18,0

@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 DeShawn Stevenson,42:42,4,12,.333,0,1,.000,0,0,nan,1,2,3,4,1,0,4,3,8,-13,0
 Dwight Howard,39:07,9,19,.474,0,0,nan,5,10,.500,6,8,14,2,0,1,3,1,23,-21,0
 Hedo Turkoglu,28:56,5,8,.625,1,2,.500,0,0,nan,0,3,3,2,0,0,0,1,11,-13,0

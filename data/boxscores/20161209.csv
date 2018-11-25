@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Rodney McGruder,36:31,3,10,.300,0,4,.000,0,0,nan,4,4,8,5,2,0,2,3,6,-28,0
 Goran Dragic,34:11,4,10,.400,2,4,.500,5,6,.833,1,2,3,4,0,1,4,2,15,-13,0
 Wayne Ellington,33:10,4,12,.333,2,9,.222,0,0,nan,0,1,1,2,0,0,1,3,10,-23,0

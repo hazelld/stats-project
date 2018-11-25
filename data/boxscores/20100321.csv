@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Jason Maxiell,30:10,7,13,.538,0,0,nan,2,2,1.000,1,8,9,0,0,1,0,2,16,-15,0
 Tayshaun Prince,29:05,4,11,.364,0,1,.000,1,1,1.000,4,2,6,3,0,0,0,0,9,-11,0
 Jonas Jerebko,29:01,4,8,.500,0,0,nan,1,2,.500,2,3,5,1,1,1,0,3,9,-9,0

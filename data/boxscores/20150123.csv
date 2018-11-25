@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Kemba Walker,25:25,3,14,.214,1,5,.200,1,1,1.000,0,0,0,4,2,0,2,2,8,-24,0
 Bismack Biyombo,24:15,4,6,.667,0,0,nan,2,2,1.000,3,2,5,0,0,0,0,4,10,-17,0
 Michael Kidd-Gilchrist,23:09,5,11,.455,0,0,nan,5,8,.625,2,5,7,2,1,1,2,0,15,-20,0

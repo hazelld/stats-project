@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Kenyon Martin,43:00,8,19,.421,0,2,.000,3,5,.600,1,7,8,0,0,3,3,4,19,+8,0
 Earl Boykins,39:00,7,12,.583,0,0,nan,6,6,1.000,0,1,1,8,1,0,2,0,20,+15,0
 Carmelo Anthony,38:00,5,12,.417,0,0,nan,4,5,.800,3,3,6,1,1,0,4,1,14,+6,0

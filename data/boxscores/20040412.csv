@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Desmond Mason,43:00,9,21,.429,0,0,nan,7,8,.875,4,7,11,4,1,2,3,1,25,+1,0
 Michael Redd,36:00,5,12,.417,2,4,.500,0,0,nan,1,4,5,2,0,0,1,2,12,-11,0
 Damon Jones,33:00,4,9,.444,0,0,nan,2,2,1.000,0,3,3,8,0,0,0,1,10,-12,0

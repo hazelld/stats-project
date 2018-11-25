@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Dwight Howard,44:39,5,10,.500,0,0,nan,4,6,.667,5,13,18,5,0,5,1,5,14,+13,0
 Jason Richardson,39:42,9,14,.643,6,8,.750,0,0,nan,1,2,3,2,0,0,2,1,24,+15,0
 Jameer Nelson,34:57,6,15,.400,1,4,.250,3,4,.750,0,1,1,7,0,0,3,4,16,-5,0

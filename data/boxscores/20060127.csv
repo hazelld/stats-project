@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 LeBron James,45:06,12,23,.522,1,2,.500,5,8,.625,1,6,7,9,3,1,6,1,30,+4,0
 Zydrunas Ilgauskas,36:12,6,12,.500,0,0,nan,15,16,.938,2,4,6,0,0,4,2,4,27,+3,0
 Drew Gooden,33:34,3,7,.429,0,0,nan,1,2,.500,3,2,5,0,1,0,0,2,7,+14,0

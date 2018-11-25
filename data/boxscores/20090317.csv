@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Dwight Howard,39:25,5,8,.625,0,0,nan,3,5,.600,4,11,15,3,0,6,4,2,13,+2,0
 Hedo Turkoglu,37:15,5,12,.417,2,4,.500,4,4,1.000,2,4,6,7,0,0,4,3,16,-9,0
 Rashard Lewis,35:45,3,15,.200,0,8,.000,0,0,nan,0,4,4,2,1,0,1,0,6,+2,0

@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Greg Monroe,34:02,12,17,.706,0,0,nan,7,8,.875,6,6,12,0,1,0,3,3,31,-10,0
 Tayshaun Prince,28:33,3,7,.429,2,3,.667,0,0,nan,2,4,6,2,0,0,3,1,8,-15,0
 Brandon Knight,27:33,4,7,.571,0,3,.000,1,3,.333,0,0,0,5,1,0,3,3,9,-16,0

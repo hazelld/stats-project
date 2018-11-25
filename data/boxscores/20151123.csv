@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Victor Oladipo,25:51,5,12,.417,0,3,.000,0,0,nan,1,2,3,2,1,0,1,2,10,-15,0
 Nikola Vucevic,25:44,6,10,.600,0,0,nan,0,0,nan,2,3,5,2,0,0,1,2,12,-34,0
 Tobias Harris,24:58,4,7,.571,0,1,.000,1,2,.500,0,2,2,5,0,1,1,1,9,-28,0

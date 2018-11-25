@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Bradley Beal,35:35,8,19,.421,2,5,.400,0,0,nan,0,2,2,9,0,2,3,2,18,+9,0
 Tomas Satoransky,31:27,6,7,.857,1,1,1.000,4,4,1.000,1,3,4,8,2,0,0,4,17,+7,0
 Otto Porter,29:30,6,11,.545,3,5,.600,0,0,nan,1,7,8,2,2,0,1,2,15,+11,0

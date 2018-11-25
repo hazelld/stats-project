@@ -4,7 +4,7 @@ import pandas as pd
 
 INPUT_FIELDS = ["Starters","MP","FG","FGA","FG%","3P","3PA","3P%","FT","FTA","FT%","ORB", 
                 "DRB","TRB","AST","STL","BLK","TOV","PF","PTS","+/-"]
-OUTPUT_FIELDS = ["Player","MP","FG","FGA","FG%","3P","3PA","3P%","FT","FTA","FT%","ORB", 
+OUTPUT_FIELDS = ["Player","MP","FGM","FGA","FG%","3PM","3PA","3P%","FTM","FTA","FT%","ORB", 
                 "DRB","TRB","AST","STL","BLK","TOV","PF","PTS","+/-", "Team"]
 
 def parse_team_table(table):
@@ -23,10 +23,8 @@ def parse_team_table(table):
                 if len(player_list) <= index:
                     player_list.append({})
 
-                if column_name == "Starters":
-                    column_name = "Player"
-
-                player_list[index][column_name] = stat
+                output_column_name = OUTPUT_FIELDS[INPUT_FIELDS.index(column_name)]
+                player_list[index][output_column_name] = stat
                 index += 1
    
     return player_list
@@ -65,7 +63,7 @@ def save_boxscore(date, team_data):
 """
 Go through the master list of LeBron's games, and get each boxscore and save it
 """
-with open('data/Seasons/master.csv') as csvfile:
+with open('data/seasons/master.csv') as csvfile:
     reader = csv.DictReader(csvfile)
 
     for row in reader:

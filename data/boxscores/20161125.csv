@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Harrison Barnes,30:28,6,13,.462,0,3,.000,0,0,nan,3,2,5,0,0,0,0,0,12,-26,0
 Wesley Matthews,28:47,2,8,.250,2,7,.286,0,0,nan,0,2,2,3,1,0,4,0,6,-32,0
 Dirk Nowitzki,27:11,7,18,.389,1,5,.200,0,0,nan,1,5,6,3,0,0,1,3,15,-27,0

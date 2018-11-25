@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Tim Duncan,36:31,7,14,.500,0,0,nan,5,7,.714,3,7,10,5,1,1,1,1,19,+1,0
 Tony Parker,32:28,2,7,.286,0,0,nan,0,0,nan,0,1,1,4,1,0,7,3,4,-6,0
 Bruce Bowen,30:45,3,6,.500,1,2,.500,1,1,1.000,0,3,3,1,0,0,0,0,8,0,0

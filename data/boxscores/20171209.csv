@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 J.J. Redick,36:19,6,13,.462,4,9,.444,3,3,1.000,0,1,1,2,2,0,1,2,19,-11,0
 Robert Covington,35:58,7,10,.700,5,7,.714,0,0,nan,0,6,6,2,4,0,2,0,19,+10,0
 Ben Simmons,35:32,7,13,.538,0,0,nan,0,0,nan,0,6,6,10,1,1,7,3,14,-6,0

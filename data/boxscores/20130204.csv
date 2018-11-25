@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Gerald Henderson,37:38,5,11,.455,0,1,.000,2,2,1.000,3,4,7,1,2,0,1,2,12,-9,0
 Jeffery Taylor,28:23,4,8,.500,2,5,.400,0,0,nan,0,2,2,0,1,1,0,4,10,-10,0
 Bismack Biyombo,23:23,1,4,.250,0,0,nan,0,0,nan,4,5,9,1,0,1,2,3,2,+2,0

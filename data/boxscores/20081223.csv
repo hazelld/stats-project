@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Shane Battier,39:37,1,6,.167,1,4,.250,0,0,nan,0,4,4,2,0,0,1,5,3,-2,0
 Luis Scola,31:41,5,10,.500,0,0,nan,1,2,.500,3,5,8,3,1,0,3,1,11,-4,0
 Tracy McGrady,30:29,2,7,.286,0,1,.000,0,0,nan,0,1,1,6,2,0,1,2,4,-4,0

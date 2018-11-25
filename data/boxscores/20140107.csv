@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Anthony Davis,41:00,10,18,.556,0,0,nan,2,2,1.000,7,5,12,1,3,2,5,3,22,-24,0
 Al-Farouq Aminu,31:12,3,5,.600,0,0,nan,0,2,.000,0,5,5,2,3,2,1,2,6,-10,0
 Jrue Holiday,30:56,2,6,.333,0,1,.000,0,0,nan,0,5,5,7,1,0,4,2,4,-17,0

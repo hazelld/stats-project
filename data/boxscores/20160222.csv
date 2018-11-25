@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Marcus Morris,39:35,6,16,.375,1,6,.167,1,1,1.000,0,2,2,4,0,0,0,0,14,-4,0
 Kentavious Caldwell-Pope,36:46,8,10,.800,2,3,.667,1,2,.500,0,4,4,0,2,0,0,0,19,+4,0
 Andre Drummond,35:26,4,8,.500,0,0,nan,8,14,.571,3,12,15,1,2,1,2,4,16,+7,0

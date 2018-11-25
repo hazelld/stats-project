@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Greivis Vasquez,31:10,2,6,.333,1,1,1.000,3,4,.750,0,3,3,7,1,0,4,3,8,-5,0
 Robin Lopez,30:12,7,10,.700,0,0,nan,6,6,1.000,3,5,8,0,0,1,0,2,20,0,0
 Ryan Anderson,29:37,10,19,.526,4,6,.667,0,0,nan,2,3,5,1,0,0,2,4,24,+6,0

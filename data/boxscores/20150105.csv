@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Tristan Thompson,40:48,8,17,.471,0,0,nan,2,5,.400,6,3,9,2,2,0,3,3,18,-2,0
 Matthew Dellavedova,39:08,1,7,.143,1,2,.500,0,2,.000,1,1,2,8,1,0,2,2,3,-3,0
 Kevin Love,37:25,8,18,.444,1,6,.167,11,13,.846,4,15,19,2,2,0,3,1,28,0,0

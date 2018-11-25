@@ -1,4 +1,4 @@
-Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Player,MP,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
 Jason Thompson,31:46,6,7,.857,0,0,nan,1,4,.250,1,6,7,0,0,0,3,4,13,-26,0
 Beno Udrih,30:24,4,7,.571,0,0,nan,1,2,.500,0,2,2,4,1,0,2,3,9,-18,0
 DeMarcus Cousins,28:22,3,14,.214,0,0,nan,2,4,.500,2,5,7,4,1,0,2,3,8,-10,0
