@@ -77,11 +77,14 @@ def Team_Scoring_Poss(data):
         - data["Team_FTM"] - Team free throw made
         - data["Team_FTA"] - Team free throw attempted
     """
-    return (data["Team_FGM"] + (1 - (math.pow(1 - (data["Team_FTM"] / data["Team_FTA"]), 2))) *
-            data["Team_FTA"] * 0.4)
+    #return (data["Team_FGA"] + (1 - (math.pow(1 - (data["Team_FTM"] / data["Team_FTA"]), 2))) *
+    #        data["Team_FTA"] * 0.4)
+    return 0
 
 def Team_Poss(data):
-    return (Team_Scoring_Poss(data) + TeamFGxPoss(data) + TeamFTxPoss(data) + data["Team_TOV"])
+    #return (Team_Scoring_Poss(data) + TeamFGxPoss(data) + TeamFTxPoss(data) + data["Team_TOV"])
+    # Formula from https://squared2020.com/2017/11/05/defensive-ratings-estimation-vs-counting/:
+    return data["Team_FGA"] + 0.44 * data["Team_FTA"] - data["Team_ORB"] + data["Team_TOV"]
 
 def Team_ORB_Weight(data):
     """
@@ -213,18 +216,20 @@ def OffensiveWinShares(data):
 DEFENSIVE CALCULATIONS
 """
 def Stops(data):
-    return StopsOne(data) + StopsTwo(data)
+    return Stops_Indiv(data) + Stops_Team(data)
 
-def StopsOne(data):
+def Stops_Indiv(data):
     return (data["STL"] + data["BLK"] * FMwt(data) * (1 - 1.07 * DOR_Percent(data)) + 
             data["DRB"] * (1 - FMwt(data)))
 
-def StopsTwo(data):
-    return ((((data["Opponent_FGA"] - data["Opponent_FGM"] - data["Team_BLK"])) /
-            data["Team_MP"]) * FMwt(data) * (1 - 1.07 * DOR_Percent(data)) + 
-            ((data["Opponent_TOV"] - data["Team_STL"]) / data["Team_MP"]) * data["MP"] +
-            (data["PF"] / data["Team_PF"]) * 0.4 * data["Opponent_FTA"] * 
-            math.pow(1 - (data["Opponent_FTM"] / data["Opponent_FTA"]), 2))
+def Stops_Team(data):
+    x1 = (data["Opponent_FGA"] - data["Opponent_FGM"] - data["Team_BLK"]) / data["Team_MP"]
+    x2 = FMwt(data)
+    x3 = (1 - 1.07 * DOR_Percent(data))
+    x4 = ((data["Opponent_TOV"] - data["Team_STL"]) / data["Team_MP"] ) 
+    x5 = 0.4 * (data["PF"] / data["Team_PF"]) * data["Opponent_FTA"]
+    x6 = math.pow(1 - (data["Opponent_FTM"] / data["Opponent_FTA"]), 2)
+    return ((x1 * x2 * x3) + x4) * data["MP"]  + (x5 * x6)
 
 def FMwt(data):
     return ((DFG_Percent(data) * (1 - DOR_Percent(data))) / (DFG_Percent(data) * 
@@ -237,10 +242,9 @@ def DFG_Percent(data):
     return (data["Opponent_FGM"] / data["Opponent_FGA"])
 
 def Stop_Percent(data):
-    return ((Stops(data) * data["Opponent_MP"]) / (Team_Poss(data) * data["MP"]))
+    return ((Stops(data) * data["Team_MP"]) / (Team_Poss(data) * data["MP"]))
 
 def DRtg(data):
-    print(str(Team_Defensive_Rating(data)) + "+ 0.2 * (100 * " + str(D_Pts_per_ScPoss(data)) + " * (1 - " + str(Stop_Percent(data)) + ") - " + str(Team_Defensive_Rating(data)) + ")")
     return (Team_Defensive_Rating(data) + 0.2 * (100 * D_Pts_per_ScPoss(data) * 
             (1 - Stop_Percent(data)) - Team_Defensive_Rating(data)))
 
@@ -251,63 +255,34 @@ def D_Pts_per_ScPoss(data):
     return (data["Opponent_PTS"] / (data["Opponent_FGM"] + (1 - 
         math.pow(1 - (data["Opponent_FTM"] / data["Opponent_FTA"]), 2)) *
         data["Opponent_FTA"] * 0.4))
-"""
-Lebron 2008/2009
-"""
-data = {
-    "FGM": 789,
-    "FGA": 1613,
-    "FTM": 594,
-    "FTA": 762,
-    "ORB": 106,
-    "DRB": 507,
-    "AST": 587,
-    "TOV": 241,
-    "PTS": 2304,
-    "3PM": 132,
-    "BLK": 93,
-    "STL": 137,
-    "PF": 139,
-    "MP": 3054,
-    "Team_FGM": 3022, 
-    "Team_FGA": 6454,
-    "Team_FTM": 1523,
-    "Team_FTA": 2012,
-    "Team_ORB": 886,
-    "Team_DRB": 2574,
-    "Team_AST": 1663,
-    "Team_TOV": 1045,
-    "Team_PTS": 8223,
-    "Team_3PM": 656,
-    "Team_BLK": 435,
-    "Team_STL": 593,
-    "Team_PF": 1663,
-    "Team_MP": 19780,
-    "Opponent_TRB": 3188,
-    "Opponent_ORB": 878,
-    "Opponent_FGA": 6444,
-    "Opponent_FGM": 2775,
-    "Opponent_PTS": 7491,
-    "Opponent_FTA": 1459,
-    "Opponent_FTM": 1895,
-    "Opponent_TOV": 1137,
-    "Opponent_MP": 19780,
-    "Opponent_Possessions": 88.7 * 82,
-    "Team_Possessions": 88.7 * 82,
-    "LPPP": 1.083,
-    "LPPG": 100,
-    "Team_Pace": 88.7,
-    "League_Pace": 91.7,
-}
 
-print("Team Defensive Rating:")
-print(Team_Defensive_Rating(data))
-print("D_Pts_per..:")
-print(D_Pts_per_ScPoss(data))
-print("Stop %:")
-print(Stop_Percent(data))
-print("LBJ Defensive Rating:")
-print(DRtg(data))
-print("\n\n\n\nTeam Poss:")
-print(Team_Poss(data))
+def Marginal_Defense(data):
+    return ((data["MP"] / data["Team_MP"]) * Opponent_Poss(data) * (1.08 * data["LPPP"] -
+        (DRtg(data) / 100)))
+    
+def Marginal_PPW(data):
+    return (0.32 * data["LPPG"] * ((data["Team_Pace"] / data["League_Pace"])))
 
+def Defensive_Win_Shares(data):
+    return Marginal_Defense(data) / Marginal_PPW(data)
+
+import csv
+from collections import OrderedDict
+
+def convert_to_int(data):
+    buff_dict = {}
+    for key in data:
+        if data[key]:
+            buff_dict[key] = int(data[key])
+            print(str(key) + " = " + str(buff_dict[key]))
+    return buff_dict
+
+with open('stats.csv', 'r') as csvfile:
+    creader = csv.DictReader(csvfile, delimiter=',')
+    for row in creader:
+        data = convert_to_int(dict(row))
+        print(Team_Poss(data))
+        print(D_Pts_per_ScPoss(data))
+        print(Stops_Team(data))
+        print(Stop_Percent(data))
+        print(DRtg(data))

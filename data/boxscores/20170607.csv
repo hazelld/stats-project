@@ -1,0 +1,29 @@
+Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-,Team
+Kevin Durant,40:55,10,18,.556,4,7,.571,7,8,.875,0,9,9,4,1,1,3,2,31,0,0
+Klay Thompson,40:40,11,18,.611,6,11,.545,2,2,1.000,0,5,5,2,0,0,1,4,30,+3,0
+Stephen Curry,39:22,8,19,.421,5,9,.556,5,5,1.000,5,8,13,6,2,0,1,3,26,+11,0
+Draymond Green,32:54,3,9,.333,0,3,.000,2,2,1.000,1,7,8,7,1,1,4,5,8,+14,0
+Zaza Pachulia,13:28,0,3,.000,0,0,nan,0,0,nan,0,1,1,1,0,0,4,4,0,-2,0
+Andre Iguodala,29:39,2,6,.333,1,3,.333,2,2,1.000,1,4,5,5,4,1,2,3,7,+10,0
+Shaun Livingston,11:52,3,6,.500,0,0,nan,0,0,nan,0,0,0,1,0,0,1,1,6,-2,0
+David West,10:35,3,3,1.000,0,0,nan,1,1,1.000,0,1,1,0,0,0,0,1,7,-6,0
+Ian Clark,8:32,0,0,nan,0,0,nan,0,0,nan,0,1,1,1,0,0,1,2,0,-6,0
+JaVale McGee,7:57,0,0,nan,0,0,nan,1,2,.500,1,0,1,2,0,1,1,3,1,+1,0
+Patrick McCaw,3:54,0,1,.000,0,0,nan,2,2,1.000,0,0,0,0,0,0,0,0,2,+4,0
+James Michael McAdoo,0:06,0,0,nan,0,0,nan,0,0,nan,0,0,0,0,0,0,0,0,0,-2,0
+Matt Barnes,0:06,0,0,nan,0,0,nan,0,0,nan,0,0,0,0,0,0,0,0,0,0,0
+Team Totals,240,40,83,.482,16,33,.485,22,24,.917,8,36,44,29,8,4,18,28,118,nan,0
+LeBron James,45:37,15,27,.556,4,9,.444,5,6,.833,3,8,11,9,1,1,5,2,39,+7,1
+Kyrie Irving,44:23,16,29,.552,0,7,.000,6,6,1.000,1,5,6,3,0,0,2,5,38,-9,1
+Kevin Love,37:16,1,9,.111,1,7,.143,6,7,.857,4,9,13,1,6,0,2,3,9,-11,1
+J.R. Smith,34:20,5,10,.500,5,10,.500,1,2,.500,0,1,1,0,2,0,1,4,16,-8,1
+Tristan Thompson,23:05,0,1,.000,0,0,nan,0,0,nan,1,2,3,2,0,2,1,1,0,-6,1
+Kyle Korver,24:08,3,7,.429,2,6,.333,0,0,nan,0,1,1,0,0,0,0,4,8,+3,1
+Richard Jefferson,15:41,0,2,.000,0,2,.000,1,2,.500,1,1,2,1,0,0,1,3,1,-5,1
+Iman Shumpert,11:53,0,3,.000,0,2,.000,2,2,1.000,0,0,0,1,0,0,0,2,2,0,1
+Deron Williams,3:37,0,2,.000,0,1,.000,0,0,nan,0,0,0,0,0,0,0,1,0,+4,1
+James Jones,Did Not Play,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1
+Dahntay Jones,Did Not Play,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1
+Derrick Williams,Did Not Play,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1
+Channing Frye,Did Not Play,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,1
+240,40,83,.482,16,33,.485,22,24,.917,8,36,44,29,8,4,18,28,118,nan,240,1
